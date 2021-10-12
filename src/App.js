@@ -1,6 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+<h1> By Jessica Romano</h1>;
 
 function App() {
   return (
@@ -24,3 +25,4 @@ function App() {
 }
 
 export default App;
+<h1> By Jessica Romano</h1>;
